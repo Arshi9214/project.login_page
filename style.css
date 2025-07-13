@@ -1,0 +1,49 @@
+body {
+    background-color: #00405c;
+}
+
+.container { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main {
+    background-color: #fff;
+    margin-top: 10px;
+    padding: 22px;
+    width: 500px;
+    text-align: left;
+}
+
+.title {
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+}
+
+label {
+    color: #ff0000;
+}
+
+input, select, textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 10px;;
+}
+
+.s{
+    background-color: #02998c;
+    color: #fff;
+    border-radius: 50px;
+     border: none;
+     width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    
+}
+
+footer {
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+}
